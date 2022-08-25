@@ -6,7 +6,7 @@
 {
     .link
     {
-        @apply cursor-pointer hover:underline;
+        @apply cursor-pointer hover:border-solid hover:border-2 hover:border-white hover:pl-1 hover:pr-1;
     }
     .button
     {
